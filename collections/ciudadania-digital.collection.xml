@@ -1,3 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11322</md:content-id>  <md:title>Ciudadanía Digital</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>es</md:language>      <md:uuid>21454bb8-49f6-4b8d-8cba-81e9839da4cf</md:uuid>
-<md:slug>ciudadania-digital</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>ciudadanía digital</md:title>                                <col:content>                  </col:content>      </col:subcollection>              <col:module document="m38456"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Marco Carlos Avalos Rosado">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11322</md:content-id>
+    <md:title>Ciudadan&#xED;a Digital</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>es</md:language>
+    <md:uuid>21454bb8-49f6-4b8d-8cba-81e9839da4cf</md:uuid>
+    <md:slug>ciudadania-digital</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>ciudadan&#xED;a digital</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:module document="m38456"/>
+  </col:content>
+</col:collection>
